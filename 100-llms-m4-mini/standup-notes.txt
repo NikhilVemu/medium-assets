@@ -1,0 +1,6 @@
+Priya: shipped the login fix, but the iOS build is still failing on CI since the cert expired.
+Marco: I can renew the cert this afternoon, should take an hour.
+Priya: cool. Also the onboarding screens need the new copy before Friday's TestFlight.
+Sam: I'll write the onboarding copy by Wednesday and hand it to design.
+Marco: and someone has to email the beta testers about the delay.
+Priya: I'll send that today.
